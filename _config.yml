@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Sense, Perceive, Interact & Render on Android XR
 description: [CVPR 2025 Tutorial]
+github:
+  is_project_page: false
