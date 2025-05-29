@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Organizers
 <p style="text-align: center;"> Sean Fanello, Federico Tombari, Thabo Beeler, Andrea Colaco
 </p>
@@ -22,6 +26,5 @@ June 12th - 9.00 am CDT - Room TBD , Music City Center, Nashville TN.
 
 ## Program
 Coming soon
-</table>
 
 Please contact [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
