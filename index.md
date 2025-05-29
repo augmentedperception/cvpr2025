@@ -29,28 +29,27 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
 | Time          | Title                                                          | Speaker                                                       |
 |:--------------|:---------------------------------------------------------------|:--------------------------------------------------------------|
 |               | **Morning: Sensing and Perception on Android XR** |                                                               |
-| 9:00-9:15     | Intro: Android XR & Project Moohan                             | Sean Fanello (Google)<br>Sean (Sung Soo) Choi (Samsung)        |
-| 9:15-9:30     | Digitization                                                   | Sergio Orts Escolano (Google)<br>Erroll Wood (Google)                     |
-| 9:30-10:00    | Foundational Human Models for XR                               | Stefanos Zafeiriou (Google)                                   |
-| 10:00-10:15   | Synthetic Data for ML                                          | Erroll Wood (Google)                                          |
-| 10:15-10:30   | Background for OpenPX and Perception hosting service           | Jinshik Bae (Samsung)                                         |
-| 10:30-10:45   | Real-world scenario of OpenPX - Fit guide in XR                | Donghwan Seo (Samsung)                                        |
+| 9:00-9:15     | Intro: Android XR & Project Moohan                             | Sean Fanello&nbsp;(Google)<br>Sean (Sung Soo) Choi&nbsp;(Samsung)        |
+| 9:15-9:30     | Digitization                                                   | Sergio Orts Escolano&nbsp;(Google)<br>Erroll Wood&nbsp;(Google)                     |
+| 9:30-10:00    | Foundational Human Models for XR                               | Stefanos Zafeiriou&nbsp;(Google)                                   |
+| 10:00-10:15   | Synthetic Data for ML                                          | Erroll Wood&nbsp;(Google)                                          |
+| 10:15-10:30   | Background for OpenPX and Perception hosting service           | Jinshik Bae&nbsp;(Samsung)                                         |
+| 10:30-10:45   | Real-world scenario of OpenPX - Fit guide in XR                | Donghwan Seo&nbsp;(Samsung)                                        |
 | 10:45-11:00   | <span style="color: mediumvioletred;">*Coffee Break*</span> |                                                               |
-| 11:00-11:20   | World Tracking for XR                                          | Abhijeet Bisain (Qualcomm)                                    |
-| 11:20-11:45   | Hand Tracking for XR                                           | Jonathan Taylor (Google)<br>Abhijeet Bisain (Qualcomm)         |
-| 11:45-12:10   | Face Tracking for XR                                           | Sergio Orts Escolano (Google)                                 |
-| 12:10-12:35   | Body Tracking for XR                                           | Alexandru-Eugen Ichim (Google)                                |
-| 12:35-13:00   | Eye Tracking for XR                                            | Ivana Tosic Rodgers (Google)                                  |
+| 11:00-11:20   | World Tracking for XR                                          | Abhijeet Bisain&nbsp;(Qualcomm)                                    |
+| 11:20-11:45   | Hand Tracking for XR                                           | Jonathan Taylor&nbsp;(Google)<br>Abhijeet Bisain&nbsp;(Qualcomm)         |
+| 11:45-12:10   | Face Tracking for XR                                           | Sergio Orts Escolano&nbsp;(Google)                                 |
+| 12:10-12:35   | Body Tracking for XR                                           | Alexandru-Eugen Ichim&nbsp;(Google)                                |
+| 12:35-13:00   | Eye Tracking for XR                                            | Ivana Tosic Rodgers&nbsp;(Google)                                  |
 | 13:00-14:00   | <span style="color: mediumvioletred;">*Lunch Break*</span> |                                                               |
 |               | **Afternoon: Interaction and Rendering on Android XR** |                                                               |
-| 14:00-14:30   | Video See Through                                              | Eric Turner (Google)<br>Abhijeet Bisain (Qualcomm)             |
-| 14:30-15:00   | Novel View Synthesis for XR                                    | Fabian Manhardt (Google)                                      |
-| 15:00-15:30   | Open Set 3D Scene Understanding for XR                         | Federico Tombari (Google)                                     |
-| 15:30-15:50   | 3D Assets and Immersive Scene Generation for XR                | Michael Oechsle (Google)                                      |
+| 14:00-14:30   | Video See Through                                              | Eric Turner&nbsp;(Google)<br>Abhijeet Bisain&nbsp;(Qualcomm)             |
+| 14:30-15:00   | Novel View Synthesis for XR                                    | Fabian Manhardt&nbsp;(Google)                                      |
+| 15:00-15:30   | Open Set 3D Scene Understanding for XR                         | Federico Tombari&nbsp;(Google)                                     |
+| 15:30-15:50   | 3D Assets and Immersive Scene Generation for XR                | Michael Oechsle&nbsp;(Google)                                      |
 | 15:50-16:00   | <span style="color: mediumvioletred;">*Coffee Break*</span> |                                                               |
-| 16:00-16:30   | Scalable Photorealistic Avatars                                | Yinda Zhang (Google)<br>Yan Deng (Qualcomm)                    |
-| 16:30-17:00   | Interaction Framework for XR                                   | Andrea Colaco (Google)                                        |
-| 17:00-17:30   | Interactive Perception & Graphics for a Universally Accessible XR | Ruofei Du (Google)                                            |
-
+| 16:00-16:30   | Scalable Photorealistic Avatars                                | Yinda Zhang&nbsp;(Google)<br>Yan Deng&nbsp;(Qualcomm)                    |
+| 16:30-17:00   | Interaction Framework for XR                                   | Andrea Colaco&nbsp;(Google)                                        |
+| 17:00-17:30   | Interactive Perception & Graphics for a Universally Accessible XR | Ruofei Du&nbsp;(Google)                                            |
 
 Please contact [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
