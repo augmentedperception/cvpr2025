@@ -26,6 +26,8 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
 
 ## Program
 
+<div style="font-size: 90%;">
+
 | Time          | Title                                                          | Speaker                                                       |
 |:--------------|:---------------------------------------------------------------|:--------------------------------------------------------------|
 |               | <span style="white-space: nowrap;">**Morning: Sensing and Perception on Android XR**</span> |                                                               |
@@ -51,5 +53,7 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
 | <span style="white-space: nowrap;">4:00-4:30 PM</span> | Scalable Photorealistic Avatars | <span style="white-space: nowrap;">Yinda Zhang <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Yan Deng <span style="color: #666; font-style: italic;">(Qualcomm)</span></span> |
 | <span style="white-space: nowrap;">4:30-5:00 PM</span> | Interaction Framework for XR | <span style="white-space: nowrap;">Andrea Colaco <span style="color: #666; font-style: italic;">(Google)</span></span> |
 | <span style="white-space: nowrap;">5:00-5:30 PM</span> | Interactive Perception & Graphics for a Universally Accessible XR | <span style="white-space: nowrap;">Ruofei Du <span style="color: #666; font-style: italic;">(Google)</span></span> |
+
+</div>
 
 Please contact [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
