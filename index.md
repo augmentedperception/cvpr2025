@@ -9,7 +9,7 @@ layout: default
 <p style="text-align:center"><img src="https://www.seanfanello.it/wp-content/uploads/2025/05/cvpr25_tutorial.png"/></p>
 
 ## Description
-[Google Android XR](https://blog.google/products/android/android-xr/) is a new operating system built for this next generation of computing. At the heart of this platform, Computer Vision and Machine Learning are pivotal in ensuring immersive user experiences. In this tutorial, in particular, we will describe how we built from the ground up the full Perception stack: from head tracking algorithms, all the way to photorealistic avatars and scene renderings. Additionally, researchers and engineers will have access to comprehensive references and documentation of the APIs used in this project.
+[Google Android XR](https://blog.google/products/android/android-xr/) is a new operating system built for the next generation of computing. At the heart of this platform, Computer Vision and Machine Learning are pivotal in ensuring immersive user experiences. In this tutorial, in particular, we will describe how we built from the ground up the full Perception stack: from head tracking algorithms, all the way to photorealistic avatars and scene renderings. Additionally, researchers and engineers will have access to comprehensive references and documentation of the APIs used in this project.
 
 The tutorial begins by emphasizing the significance of data capture, rendering, and groundtruth generation for Perception tasks such as hand, face, and eye tracking.
 
