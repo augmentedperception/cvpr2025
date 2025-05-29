@@ -28,28 +28,28 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
 
 | Time          | Title                                                          | Speaker                                                       |
 |:--------------|:---------------------------------------------------------------|:--------------------------------------------------------------|
-|               | **Morning: Sensing and Perception on Android XR** |                                                               |
-| <span style="white-space: nowrap;">9:00-9:15 AM</span> | Intro: Android XR & Project Moohan | <span style="white-space: nowrap;">Sean Fanello (Google)</span><br><span style="white-space: nowrap;">Sean (Sung Soo) Choi (Samsung)</span> |
-| <span style="white-space: nowrap;">9:15-9:30 AM</span> | Digitization | <span style="white-space: nowrap;">Sergio Orts Escolano (Google)</span><br><span style="white-space: nowrap;">Erroll Wood (Google)</span> |
-| <span style="white-space: nowrap;">9:30-10:00 AM</span> | Foundational Human Models for XR | <span style="white-space: nowrap;">Stefanos Zafeiriou (Google)</span> |
-| <span style="white-space: nowrap;">10:00-10:15 AM</span> | Synthetic Data for ML | <span style="white-space: nowrap;">Erroll Wood (Google)</span> |
-| <span style="white-space: nowrap;">10:15-10:30 AM</span> | Background for OpenPX and Perception hosting service | <span style="white-space: nowrap;">Jinshik Bae (Samsung)</span> |
-| <span style="white-space: nowrap;">10:30-10:45 AM</span> | Real-world scenario of OpenPX - Fit guide in XR | <span style="white-space: nowrap;">Donghwan Seo (Samsung)</span> |
+|               | <span style="white-space: nowrap;">**Morning: Sensing and Perception on Android XR**</span> |                                                               |
+| <span style="white-space: nowrap;">9:00-9:15 AM</span> | Intro: Android XR & Project Moohan | <span style="white-space: nowrap;">Sean Fanello <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Sean (Sung Soo) Choi <span style="color: #666; font-style: italic;">(Samsung)</span></span> |
+| <span style="white-space: nowrap;">9:15-9:30 AM</span> | Digitization | <span style="white-space: nowrap;">Sergio Orts Escolano <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Erroll Wood <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">9:30-10:00 AM</span> | Foundational Human Models for XR | <span style="white-space: nowrap;">Stefanos Zafeiriou <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">10:00-10:15 AM</span> | Synthetic Data for ML | <span style="white-space: nowrap;">Erroll Wood <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">10:15-10:30 AM</span> | Background for OpenPX and Perception hosting service | <span style="white-space: nowrap;">Jinshik Bae <span style="color: #666; font-style: italic;">(Samsung)</span></span> |
+| <span style="white-space: nowrap;">10:30-10:45 AM</span> | Real-world scenario of OpenPX - Fit guide in XR | <span style="white-space: nowrap;">Donghwan Seo <span style="color: #666; font-style: italic;">(Samsung)</span></span> |
 | <span style="white-space: nowrap;">10:45-11:00 AM</span> | <span style="color: mediumvioletred;">*Coffee Break*</span> |                                                               |
-| <span style="white-space: nowrap;">11:00-11:20 AM</span> | World Tracking for XR | <span style="white-space: nowrap;">Abhijeet Bisain (Qualcomm)</span> |
-| <span style="white-space: nowrap;">11:20-11:45 AM</span> | Hand Tracking for XR | <span style="white-space: nowrap;">Jonathan Taylor (Google)</span><br><span style="white-space: nowrap;">Abhijeet Bisain (Qualcomm)</span> |
-| <span style="white-space: nowrap;">11:45 AM-12:10 PM</span> | Face Tracking for XR | <span style="white-space: nowrap;">Sergio Orts Escolano (Google)</span> |
-| <span style="white-space: nowrap;">12:10-12:35 PM</span> | Body Tracking for XR | <span style="white-space: nowrap;">Alexandru-Eugen Ichim (Google)</span> |
-| <span style="white-space: nowrap;">12:35-1:00 PM</span> | Eye Tracking for XR | <span style="white-space: nowrap;">Ivana Tosic Rodgers (Google)</span> |
+| <span style="white-space: nowrap;">11:00-11:20 AM</span> | World Tracking for XR | <span style="white-space: nowrap;">Abhijeet Bisain <span style="color: #666; font-style: italic;">(Qualcomm)</span></span> |
+| <span style="white-space: nowrap;">11:20-11:45 AM</span> | Hand Tracking for XR | <span style="white-space: nowrap;">Jonathan Taylor <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Abhijeet Bisain <span style="color: #666; font-style: italic;">(Qualcomm)</span></span> |
+| <span style="white-space: nowrap;">11:45 AM-12:10 PM</span> | Face Tracking for XR | <span style="white-space: nowrap;">Sergio Orts Escolano <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">12:10-12:35 PM</span> | Body Tracking for XR | <span style="white-space: nowrap;">Alexandru-Eugen Ichim <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">12:35-1:00 PM</span> | Eye Tracking for XR | <span style="white-space: nowrap;">Ivana Tosic Rodgers <span style="color: #666; font-style: italic;">(Google)</span></span> |
 | <span style="white-space: nowrap;">1:00-2:00 PM</span> | <span style="color: mediumvioletred;">*Lunch Break*</span> |                                                               |
-|               | **Afternoon: Interaction and Rendering on Android XR** |                                                               |
-| <span style="white-space: nowrap;">2:00-2:30 PM</span> | Video See Through | <span style="white-space: nowrap;">Eric Turner (Google)</span><br><span style="white-space: nowrap;">Abhijeet Bisain (Qualcomm)</span> |
-| <span style="white-space: nowrap;">2:30-3:00 PM</span> | Novel View Synthesis for XR | <span style="white-space: nowrap;">Fabian Manhardt (Google)</span> |
-| <span style="white-space: nowrap;">3:00-3:30 PM</span> | Open Set 3D Scene Understanding for XR | <span style="white-space: nowrap;">Federico Tombari (Google)</span> |
-| <span style="white-space: nowrap;">3:30-3:50 PM</span> | 3D Assets and Immersive Scene Generation for XR | <span style="white-space: nowrap;">Michael Oechsle (Google)</span> |
+|               | <span style="white-space: nowrap;">**Afternoon: Interaction and Rendering on Android XR**</span> |                                                               |
+| <span style="white-space: nowrap;">2:00-2:30 PM</span> | Video See Through | <span style="white-space: nowrap;">Eric Turner <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Abhijeet Bisain <span style="color: #666; font-style: italic;">(Qualcomm)</span></span> |
+| <span style="white-space: nowrap;">2:30-3:00 PM</span> | Novel View Synthesis for XR | <span style="white-space: nowrap;">Fabian Manhardt <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">3:00-3:30 PM</span> | Open Set 3D Scene Understanding for XR | <span style="white-space: nowrap;">Federico Tombari <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">3:30-3:50 PM</span> | 3D Assets and Immersive Scene Generation for XR | <span style="white-space: nowrap;">Michael Oechsle <span style="color: #666; font-style: italic;">(Google)</span></span> |
 | <span style="white-space: nowrap;">3:50-4:00 PM</span> | <span style="color: mediumvioletred;">*Coffee Break*</span> |                                                               |
-| <span style="white-space: nowrap;">4:00-4:30 PM</span> | Scalable Photorealistic Avatars | <span style="white-space: nowrap;">Yinda Zhang (Google)</span><br><span style="white-space: nowrap;">Yan Deng (Qualcomm)</span> |
-| <span style="white-space: nowrap;">4:30-5:00 PM</span> | Interaction Framework for XR | <span style="white-space: nowrap;">Andrea Colaco (Google)</span> |
-| <span style="white-space: nowrap;">5:00-5:30 PM</span> | Interactive Perception & Graphics for a Universally Accessible XR | <span style="white-space: nowrap;">Ruofei Du (Google)</span> |
+| <span style="white-space: nowrap;">4:00-4:30 PM</span> | Scalable Photorealistic Avatars | <span style="white-space: nowrap;">Yinda Zhang <span style="color: #666; font-style: italic;">(Google)</span></span><br><span style="white-space: nowrap;">Yan Deng <span style="color: #666; font-style: italic;">(Qualcomm)</span></span> |
+| <span style="white-space: nowrap;">4:30-5:00 PM</span> | Interaction Framework for XR | <span style="white-space: nowrap;">Andrea Colaco <span style="color: #666; font-style: italic;">(Google)</span></span> |
+| <span style="white-space: nowrap;">5:00-5:30 PM</span> | Interactive Perception & Graphics for a Universally Accessible XR | <span style="white-space: nowrap;">Ruofei Du <span style="color: #666; font-style: italic;">(Google)</span></span> |
 
 Please contact [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
