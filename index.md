@@ -25,6 +25,7 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
 
 
 ## Program
+
 | Time          | Title                                                          | Speaker                                                       |
 |:--------------|:---------------------------------------------------------------|:--------------------------------------------------------------|
 |               | **Morning: Sensing and Perception on Android XR** |                                                               |
