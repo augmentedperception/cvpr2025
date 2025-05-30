@@ -3,7 +3,7 @@ url: "https://augmentedperception.github.io"
 baseurl: "/cvpr2025"
 remote_theme: pages-themes/cayman@v0.2.0
 title: Sense, Perceive, Interact & Render on Android XR
-description: "[CVPR 2025 Tutorial]"
+description: "CVPR 2025 Tutorial"
 
 # GitHub settings
 github:
