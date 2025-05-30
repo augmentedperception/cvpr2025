@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/cvpr25_tutorial_social.png
 ---
 
 <p style="text-align:center"><img src="https://www.seanfanello.it/wp-content/uploads/2025/05/cvpr25_tutorial.png"/></p>
