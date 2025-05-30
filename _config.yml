@@ -9,5 +9,9 @@ description: "[CVPR 2025 Tutorial]"
 github:
   is_project_page: false
 
+# Twitter-specific settings
+twitter:
+  card: summary_large_image
+
 # Social media image
 image: /assets/cvpr25_tutorial_social.png
