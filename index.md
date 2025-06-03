@@ -149,7 +149,7 @@ June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nash
       <td><span style="white-space: nowrap;">Ruofei Du <span style="color: #666; font-style: italic;">(Google)</span></span></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><span style="white-space: nowrap;">5:30-6:30 PM</span></td>
+      <td><span style="white-space: nowrap;">5:30-6:30 PM</span></td>
       <td colspan="2" style="text-align: center; border: 1px solid #ddd; padding: 8px;"><span style="color: mediumvioletred;">Closing Remarks and Demos</span></td>
     </tr>
   </tbody>
