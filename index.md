@@ -23,7 +23,7 @@ Finally, we showcase use cases and experiences that leverage the full stack, hig
 
 
 ## When and Where
-June 12th - 9.00am CDT - Room 201B (Subject to change!), Music City Center, Nashville TN.
+June 12th - 9.00am CDT - Room 201B, Music City Center, Nashville TN.
 
 
 ## Program
